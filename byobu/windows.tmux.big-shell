@@ -1,0 +1,7 @@
+new-session -n MAIN ;
+split-window ;
+split-window ;
+select-layout main-vertical ;
+resize-pane -t 3 -y 12 ;
+select-pane -t 1 ; 
+send-keys C-l chuck | cowthink | lolcat C-m;
