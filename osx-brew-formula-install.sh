@@ -1,61 +1,61 @@
-awscli
-byobu
-cairo
-cask
-coreutils
-cowsay
-dtrx
-emacs
-fontconfig
-fortune
-freetype
-gawk
-gcc
-gdbm
-gettext
-git
-git-extras
-glib
-gmp
-gnu-sed
-htop-osx
-isl
-jpeg
-lftp
-libevent
-libffi
-libmpc
-libpng
-libtiff
-libyaml
-mariadb
-maven
-mpfr
-mtr
-newt
-nmap
-node
-openssl
-p7zip
-parallel
-pcre
-perl
-pixman
-popt
-pv
-python
-python3
-r
-ranger
-readline
-reattach-to-user-namespace
-ruby
-s-lang
-sqlite
-tmux
-tree
-unrar
-vim
-wget
-xz
-zsh
+brew install awscli
+brew install byobu
+brew install cairo
+brew install cask
+brew install coreutils
+brew install cowsay
+brew install dtrx
+brew install emacs
+brew install fontconfig
+brew install fortune
+brew install freetype
+brew install gawk
+brew install gcc
+brew install gdbm
+brew install gettext
+brew install git
+brew install git-extras
+brew install glib
+brew install gmp
+brew install gnu-sed
+brew install htop-osx
+brew install isl
+brew install jpeg
+brew install lftp
+brew install libevent
+brew install libffi
+brew install libmpc
+brew install libpng
+brew install libtiff
+brew install libyaml
+brew install mariadb
+brew install maven
+brew install mpfr
+brew install mtr
+brew install newt
+brew install nmap
+brew install node
+brew install openssl
+brew install p7zip
+brew install parallel
+brew install pcre
+brew install perl
+brew install pixman
+brew install popt
+brew install pv
+brew install python
+brew install python3
+brew install r
+brew install ranger
+brew install readline
+brew install reattach-to-user-namespace
+brew install ruby
+brew install s-lang
+brew install sqlite
+brew install tmux
+brew install tree
+brew install unrar
+brew install vim
+brew install wget
+brew install xz
+brew install zsh
